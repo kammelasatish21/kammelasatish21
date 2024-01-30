@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @kammelasatish21
+- 👀 I’m interested in web development, artificial intelligence, and open-source projects.
+- 🌱 I’m currently learning React.js and diving deeper into machine learning algorithms.
+- 💞️ I’m looking to collaborate on innovative web development projects or any AI-related initiatives.
+- 📫 How to reach me Feel free to drop me a message here on GitHub or via email at kammelasatish@gmail.com.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I once hiked to the top of a mountain just to see the sunrise.
